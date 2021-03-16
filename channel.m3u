@@ -5,15 +5,15 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbJSHr-rOZn0L46YvviBlLI)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah?api=postMessage&ads_param=273800&syndication=273888&amp;queue-enable=false&autoPlay=1&ui-start-screen-info=false
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbJSHr-rOZn0L46YvviBlLI)/dm/3/x6qp375/d/live-4.m3u8|Referer=https://www.dailymotion.com/
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbJSHr-rOZn0L46YvviBlLI)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com/
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
-https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcS68a9g2weVYfR4ZRWlris)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
-https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHe3eyZyYZ7T9OHe-xNtdduw)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcKkJCKnh8-_bPD4ZEavCGY)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports

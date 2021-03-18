@@ -431,87 +431,87 @@ https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
+#EXTINF:0 tvg-ID="BT1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
 http://37723998.to:2052/dale1/1234/128220?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
+#EXTINF:0 tvg-ID="BT1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
 http://37723998.to:2052/dale1/1234/325757?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
+#EXTINF:0 tvg-ID="BT1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
 http://37723998.to:2052/dale1/1234/128412?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
+#EXTINF:0 tvg-ID="BT2.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
 http://37723998.to:2052/dale1/1234/325758?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
+#EXTINF:0 tvg-ID="BT2.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
 http://37723998.to:2052/dale1/1234/24498?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
+#EXTINF:0 tvg-ID="BT2.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
 http://37723998.to:2052/dale1/1234/128413?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
+#EXTINF:0 tvg-ID="BT2.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
 http://37723998.to:2052/dale1/1234/26008?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3
+#EXTINF:0 tvg-ID="BT3.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3
 http://37723998.to:2052/dale1/1234/128604?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
+#EXTINF:0 tvg-ID="BT3.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
 http://37723998.to:2052/dale1/1234/26009?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
+#EXTINF:0 tvg-ID="BTE.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
 http://37723998.to:2052/dale1/1234/24503?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
+#EXTINF:0 tvg-ID="BTE.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
 http://37723998.to:2052/dale1/1234/24556?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN HD
+#EXTINF:0 tvg-ID="BTE.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN HD
 http://37723998.to:2052/dale1/1234/26010?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT EXTRA 1
+#EXTINF:0 tvg-ID="BTe1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT EXTRA 1
 http://37723998.to:2052/dale1/1234/24536?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT EXTRA 2
+#EXTINF:0 tvg-ID="BTe2.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT EXTRA 2
 http://37723998.to:2052/dale1/1234/24537?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT EXTRA 3
+#EXTINF:0 tvg-ID="BTe3.UK" tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT EXTRA 3
 http://37723998.to:2052/dale1/1234/128562?checkedby:iptvcat.com output=m3u8
 
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
+#EXTINF:0 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
 http://37723998.to:2052/dale1/1234/335845?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1
+#EXTINF:0 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1
 http://37723998.to:2052/dale1/1234/335854?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1
+#EXTINF:0 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1
 http://37723998.to:2052/dale1/1234/335873?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
+#EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
 http://37723998.to:2052/dale1/1234/335857?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
+#EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
 http://37723998.to:2052/dale1/1234/335868?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
+#EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
 http://37723998.to:2052/dale1/1234/335877?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT*
+#EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT*
 http://37723998.to:2052/dale1/1234/335841?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX
+#EXTINF:0 tvg-ID="SSMX.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX
 http://37723998.to:2052/dale1/1234/335842?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX
+#EXTINF:0 tvg-ID="SSMX.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX
 http://37723998.to:2052/dale1/1234/335869?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL*
+#EXTINF:0 tvg-ID="SSF.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL*
 http://37723998.to:2052/dale1/1234/335853?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+#EXTINF:0 tvg-ID="SSPL.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
 http://37723998.to:2052/dale1/1234/335851?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+#EXTINF:0 tvg-ID="SSPL.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
 http://37723998.to:2052/dale1/1234/335871?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
+#EXTINF:0 tvg-ID="SSG.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
 http://37723998.to:2052/dale1/1234/335846?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf
+#EXTINF:0 tvg-ID="SSG.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Golf
 http://37723998.to:2052/dale1/1234/335872?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NEWS
+#EXTINF:0 tvg-ID="SSN.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NEWS
 http://37723998.to:2052/dale1/1234/335861?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports News
+#EXTINF:0 tvg-ID="SSN.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports News
 http://37723998.to:2052/dale1/1234/335870?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NFL
+#EXTINF:0 tvg-ID="SSNFL.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NFL
 http://37723998.to:2052/dale1/1234/335848?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS RACING
+#EXTINF:0 tvg-ID="SSR.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS RACING
 http://37723998.to:2052/dale1/1234/335860?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Action
+#EXTINF:0 tvg-ID="SSAC.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Action
 http://37723998.to:2052/dale1/1234/335852?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION
+#EXTINF:0 tvg-ID="SSAC.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION
 http://37723998.to:2052/dale1/1234/335866?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
+#EXTINF:0 tvg-ID="SSAR.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
 http://37723998.to:2052/dale1/1234/335839?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena
+#EXTINF:0 tvg-ID="SSAR.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Arena
 http://37723998.to:2052/dale1/1234/335855?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket
+#EXTINF:0 tvg-ID="SSC.UK" tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket
 http://37723998.to:2052/dale1/1234/335856?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+#EXTINF:0 tvg-ID="SSC.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
 http://37723998.to:2052/dale1/1234/335840?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+#EXTINF:0 tvg-ID="SSC.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
 http://37723998.to:2052/dale1/1234/335875?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBCSN
+#EXTINF:0 tvg-ID="NBCSN.US" tvg-country="US" tvg-logo="" group-title="Sport",NBCSN
 http://37723998.to:2052/dale1/1234/172162?checkedby:iptvcat.com

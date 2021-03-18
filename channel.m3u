@@ -670,5 +670,57 @@ http://37723998.to:2052/dale1/1234/335870 output=m3u8
 
 
 
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS ACTION
+http://37723998.to:2052/dale1/1234/335866
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS ARENA
+http://37723998.to:2052/dale1/1234/335839
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS CRICKET
+http://37723998.to:2052/dale1/1234/335840
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS CRICKET
+http://37723998.to:2052/dale1/1234/335875
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS F1
+http://37723998.to:2052/dale1/1234/335845
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS FOOTBALL*
+http://37723998.to:2052/dale1/1234/335853
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS GOLF
+http://37723998.to:2052/dale1/1234/335846
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS MAIN EVENT
+http://37723998.to:2052/dale1/1234/335857
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS MAIN EVENT
+http://37723998.to:2052/dale1/1234/335868
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS MAIN EVENT
+http://37723998.to:2052/dale1/1234/335877
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS MAIN EVENT*
+http://37723998.to:2052/dale1/1234/335841
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS MIX
+http://37723998.to:2052/dale1/1234/335842
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS MIX
+http://37723998.to:2052/dale1/1234/335869
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS NEWS
+http://37723998.to:2052/dale1/1234/335861
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS NFL
+http://37723998.to:2052/dale1/1234/335848
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS PREMIER LEAGUE
+http://37723998.to:2052/dale1/1234/335851
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS PREMIER LEAGUE
+http://37723998.to:2052/dale1/1234/335871
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",SKY SPORTS RACING
+http://37723998.to:2052/dale1/1234/335860
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports Action
+http://37723998.to:2052/dale1/1234/335852
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports Arena
+http://37723998.to:2052/dale1/1234/335855
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports Cricket
+http://37723998.to:2052/dale1/1234/335856
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports F1
+http://37723998.to:2052/dale1/1234/335854
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports F1
+http://37723998.to:2052/dale1/1234/335873
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports Golf
+http://37723998.to:2052/dale1/1234/335872
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport_SKY",Sky Sports News
+http://37723998.to:2052/dale1/1234/335870
+
+
 
 

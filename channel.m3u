@@ -95,7 +95,7 @@ http://37723998.to:2052/dale1/1234/335857?checkedby:iptvcat.com output=m3u8
 http://37723998.to:2052/dale1/1234/335868?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1105.png" group-title="Sports",SKY SPORTS MAIN EVENT
 http://37723998.to:2052/dale1/1234/335877?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1105.png" group-title="Sport",SKY SPORTS MAIN EVENT*
+#EXTINF:0 tvg-ID="SSME.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1105.png" group-title="Sports",SKY SPORTS MAIN EVENT*
 http://37723998.to:2052/dale1/1234/335841?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="SSF.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1103.png" group-title="Sports",SKY SPORTS FOOTBALL*
 http://37723998.to:2052/dale1/1234/335853?checkedby:iptvcat.com output=m3u8
@@ -123,17 +123,17 @@ http://37723998.to:2052/dale1/1234/172162?checkedby:iptvcat.com output=m3u8
 http://37723998.to:2052/dale1/1234/128220?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="BT1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/876.png" group-title="Sports",BT Sport 1
 http://37723998.to:2052/dale1/1234/128412?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="BT2.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sport",BT Sport 2 HD
+#EXTINF:0 tvg-ID="BT2.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sports",BT Sport 2 HD
 http://37723998.to:2052/dale1/1234/26008?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="BT3.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sport",BT Sport 3 HD
+#EXTINF:0 tvg-ID="BT3.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sports",BT Sport 3 HD
 http://37723998.to:2052/dale1/1234/26009?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="BTE.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sport",BT Sport ESPN HD
+#EXTINF:0 tvg-ID="BTE.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sports",BT Sport ESPN HD
 http://37723998.to:2052/dale1/1234/26010?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="BTe1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sport",BT SPORT EXTRA 1
+#EXTINF:0 tvg-ID="BTe1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sports",BT SPORT EXTRA 1
 http://37723998.to:2052/dale1/1234/24536?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="BTe2.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sport",BT SPORT EXTRA 2
+#EXTINF:0 tvg-ID="BTe2.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sports",BT SPORT EXTRA 2
 http://37723998.to:2052/dale1/1234/24537?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="BTe3.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sport",BT SPORT EXTRA 3
+#EXTINF:0 tvg-ID="BTe3.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/880.png" group-title="Sports",BT SPORT EXTRA 3
 http://37723998.to:2052/dale1/1234/128562?checkedby:iptvcat.com output=m3u8
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix

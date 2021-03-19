@@ -117,7 +117,7 @@ http://37723998.to:2052/dale1/1234/335856?checkedby:iptvcat.com output=m3u8
 http://37723998.to:2052/dale1/1234/335840?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="SSC.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Sports",SKY SPORTS CRICKET
 http://37723998.to:2052/dale1/1234/335875?checkedby:iptvcat.com output=m3u8
-#EXTINF:0 tvg-ID="NBCSN.US" tvg-country="US" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/36541/nbcsportsnettv.png" group-title="Sport",NBCSN
+#EXTINF:0 tvg-ID="NBCSN.US" tvg-country="US" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/36541/nbcsportsnettv.png" group-title="Sports",NBCSN
 http://37723998.to:2052/dale1/1234/172162?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="BT1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/876.png" group-title="Sports",BT SPORTS 1
 http://37723998.to:2052/dale1/1234/128220?checkedby:iptvcat.com output=m3u8

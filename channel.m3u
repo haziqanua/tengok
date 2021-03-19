@@ -514,4 +514,15 @@ http://37723998.to:2052/dale1/1234/335840?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="SSC.UK" tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
 http://37723998.to:2052/dale1/1234/335875?checkedby:iptvcat.com output=m3u8
 #EXTINF:0 tvg-ID="NBCSN.US" tvg-country="US" tvg-logo="" group-title="Sport",NBCSN
-http://37723998.to:2052/dale1/1234/172162?checkedby:iptvcat.com
+http://37723998.to:2052/dale1/1234/172162?checkedby:iptvcat.com output=m3u8
+
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",SKY SPORT ACTION
+http://mxc7.turkoiptv.com:2086/testline_steram/sMCMEU1djj/96?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",SKY SPORT NEWS
+http://mxc7.turkoiptv.com:2086/testline_steram/sMCMEU1djj/93?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",SKY SPORT PREMIER LEAGUE
+http://mxc7.turkoiptv.com:2086/testline_steram/sMCMEU1djj/94?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
+http://mxc7.turkoiptv.com:2086/testline_steram/sMCMEU1djj/95?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Sky Sport F1
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/229?checkedby:iptvcat.com

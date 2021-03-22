@@ -30,9 +30,9 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",ESPN
-http://185.59.223.135/espn/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="ES2.US" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="Sports",ESPN 2
-http://185.59.223.135/espn2/index.m3u8
+http://207.244.227.225:25461/hoteles/123456/74?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="Sports",ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="FS1.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
@@ -42,7 +42,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FS3.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Sports",Golf Channel
-http://103.47.132.164/PLTV/88888888/224/3221227325/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Sports",Golf Channel
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
 #EXTINF:-1 tvg-ID="OLY.US" tvg-logo="http://static.epg.best/us/OlympicChannel.us.png" group-title="Sports",Olympic Channel
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png" group-title="Sports",MLB Network

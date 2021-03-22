@@ -126,10 +126,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 group-title="Movies", Fox Movies HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Movies", Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Movies", Fox Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="Family",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239

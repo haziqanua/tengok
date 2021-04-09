@@ -75,6 +75,36 @@ http://37723998.to:2052/dale1/1234/335872?checkedby:iptvcat.com output=m3u8
 https://fullenglish.xyz:443/monte/monte123/13192?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Sports",Golf Channel
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GOLF CHANNEL
+http://bazarhd.online:80/307234110115/307234110115/80953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GOLF CHANNEL
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Golf Channel HD
+https://fullenglish.xyz:443/monte/monte123/13192?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC GOLF
+http://rv.flysat.live:80/307200111632/307200111632/80961?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC GOLF
+http://bazarhd.online:80/307234110115/307234110115/80961?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC GOLF
+http://tvmedia2.com:8080/trevor/trevor/164249.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC GOLF
+http://rv.flysat.live:80/307242117531/307242117531/80961?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC GOLF
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80961?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC GOLF HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/6307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf FHD
+http://listamy.com:8080/Berto/Berto/328492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf FHD
+http://listamy.com:8080/cuco/cuco/328492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf HD
+https://fullenglish.xyz:443/monte/monte123/13174?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf HD
+http://listamy.com:8080/Berto/Berto/328491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Golf HD
+http://listamy.com:8080/cuco/cuco/328491?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Sports",One Golf

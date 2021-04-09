@@ -63,32 +63,13 @@ http://37723998.to:2052/dale1/1234/335853?checkedby:iptvcat.com output=m3u8
 http://37723998.to:2052/dale1/1234/335871?checkedby:iptvcat.com output=m3u8
 #EXTINF:-1 tvg-ID="NBCSN.US" tvg-country="US" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/36541/nbcsportsnettv.png" group-title="Sports",NBCSN
 http://37723998.to:2052/dale1/1234/172162?checkedby:iptvcat.com output=m3u8
-#EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Sports",SKY SPORTS F1
-http://37723998.to:2052/dale1/1234/335845?checkedby:iptvcat.com output=m3u8
-#EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Sports",Sky Sports F1
-http://37723998.to:2052/dale1/1234/335873?checkedby:iptvcat.com output=m3u8
-#EXTINF:-1 tvg-ID="SSG.UK" tvg-country="GB" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png" group-title="Sports",SKY SPORTS GOLF
-http://37723998.to:2052/dale1/1234/335846?checkedby:iptvcat.com output=m3u8
-#EXTINF:-1 tvg-ID="SSG.UK" tvg-country="GB" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png" group-title="Sports",Sky Sports Golf
-http://37723998.to:2052/dale1/1234/335872?checkedby:iptvcat.com output=m3u8
-#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Sports",Golf Channel
-https://fullenglish.xyz:443/monte/monte123/13192?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Sports",Golf Channel
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",GOLF CHANNEL
-http://bazarhd.online:80/307234110115/307234110115/80953?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",GOLF CHANNEL
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",GOLF CHANNEL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",Golf Channel HD
-https://fullenglish.xyz:443/monte/monte123/13192?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC GOLF
+http://tvmedia2.com:8080/trevor/trevor/164249.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC GOLF
 http://rv.flysat.live:80/307200111632/307200111632/80961?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC GOLF
 http://bazarhd.online:80/307234110115/307234110115/80961?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC GOLF
-http://tvmedia2.com:8080/trevor/trevor/164249.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC GOLF
 http://rv.flysat.live:80/307242117531/307242117531/80961?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC GOLF
@@ -105,13 +86,29 @@ https://fullenglish.xyz:443/monte/monte123/13174?checkedby:iptvcat.com
 http://listamy.com:8080/Berto/Berto/328491?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC Golf HD
 http://listamy.com:8080/cuco/cuco/328491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",GOLF CHANNEL
+http://bazarhd.online:80/307234110115/307234110115/80953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",GOLF CHANNEL
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",Golf Channel HD
+https://fullenglish.xyz:443/monte/monte123/13192?checkedby:iptvcat.com
+#EXTINF:-1 tvg-ID="SSG.UK" tvg-country="GB" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png" group-title="Golf",SKY SPORTS GOLF
+http://37723998.to:2052/dale1/1234/335846?checkedby:iptvcat.com output=m3u8
+#EXTINF:-1 tvg-ID="SSG.UK" tvg-country="GB" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/uk-skysports-golf.png" group-title="Golf",Sky Sports Golf
+http://37723998.to:2052/dale1/1234/335872?checkedby:iptvcat.com output=m3u8
+#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Golf",Golf Channel
+https://fullenglish.xyz:443/monte/monte123/13192?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="GOF.Int" tvg-logo="https://static02.astro.com.my/astro/media/astromain/golfchannel/golf_logo_1.png" group-title="Golf",Golf Channel
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/80953?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",UK_SKY_SPORTS_F1_HD
+http://tvmedia2.com:8080/trevor/trevor/175434.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Formula 1",SKY Sport F1 HD
 http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/161920?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Formula 1",SKY Sport F1 HD
 http://bazarhd.online:80/307234110115/307234110115/161920?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DAZN F1 FHD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/278382?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY SPORTS F1 HD
 http://iptv.nonoip.com:7000/jamila/jamila123/36427?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_FHD
@@ -124,10 +121,75 @@ http://listamy.com:8080/Berto/Berto/387648?checkedby:iptvcat.com
 http://nomorecable.xyz:80/vmp343streams/850256/46196?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",Sky Sports F1 HD
 http://nomorecable.xyz:80/vmp343streams/850256/74881?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",UK_SKY_SPORTS_F1_HD
+#EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Formula 1",SKY SPORTS F1
+http://37723998.to:2052/dale1/1234/335845?checkedby:iptvcat.com output=m3u8
+#EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Formula 1",Sky Sports F1
+http://37723998.to:2052/dale1/1234/335873?checkedby:iptvcat.com output=m3u8
+
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Eir_Sport_2_HD
+http://tvmedia2.com:8080/trevor/trevor/175451.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Eir_Sport_1_HD
+http://tvmedia2.com:8080/trevor/trevor/175450.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_EUROSPORT
+http://tvmedia2.com:8080/trevor/trevor/175449.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_MUTV
+http://tvmedia2.com:8080/trevor/trevor/175448.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_ESPN_HD
+http://tvmedia2.com:8080/trevor/trevor/175447.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_3_HD
+http://tvmedia2.com:8080/trevor/trevor/175446.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Eir_Sport_2_HD
+http://tvmedia2.com:8080/trevor/trevor/175445.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Eir_Sport_1_HD
+http://tvmedia2.com:8080/trevor/trevor/175444.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_EUROSPORT
+http://tvmedia2.com:8080/trevor/trevor/175443.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_EUROSPORT
+http://tvmedia2.com:8080/trevor/trevor/175442.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_ESPN_HD
+http://tvmedia2.com:8080/trevor/trevor/175441.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_3_HD
+http://tvmedia2.com:8080/trevor/trevor/175440.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_3_HD
+http://tvmedia2.com:8080/trevor/trevor/175439.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_2_HD
+http://tvmedia2.com:8080/trevor/trevor/175438.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_EXTRA_2_HD
+http://tvmedia2.com:8080/trevor/trevor/175437.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_1_HD
+http://tvmedia2.com:8080/trevor/trevor/175436.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_BT_Sport_1_HD
+http://tvmedia2.com:8080/trevor/trevor/175435.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_F1_HD
 http://tvmedia2.com:8080/trevor/trevor/175434.ts?checkedby:iptvcat.com
-
-
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Football_HD
+http://tvmedia2.com:8080/trevor/trevor/175433.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Premier_League_HD
+http://tvmedia2.com:8080/trevor/trevor/175432.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Golf_HD
+http://tvmedia2.com:8080/trevor/trevor/175431.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Golf_HD
+http://tvmedia2.com:8080/trevor/trevor/175430.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Cricket_HD
+http://tvmedia2.com:8080/trevor/trevor/175429.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Arena_HD
+http://tvmedia2.com:8080/trevor/trevor/175428.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Mix_HD
+http://tvmedia2.com:8080/trevor/trevor/175427.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_News_HD
+http://tvmedia2.com:8080/trevor/trevor/175426.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Racing_HD
+http://tvmedia2.com:8080/trevor/trevor/175425.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Cricket_HD
+http://tvmedia2.com:8080/trevor/trevor/175424.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Arena_HD
+http://tvmedia2.com:8080/trevor/trevor/175423.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Mix_HD
+http://tvmedia2.com:8080/trevor/trevor/175422.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_News_HD
+http://tvmedia2.com:8080/trevor/trevor/175421.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Racing_HD
+http://tvmedia2.com:8080/trevor/trevor/175420.ts?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR

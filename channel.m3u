@@ -106,6 +106,29 @@ http://listamy.com:8080/Berto/Berto/328491?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Golf",NBC Golf HD
 http://listamy.com:8080/cuco/cuco/328491?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Formula 1",SKY Sport F1 HD
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/161920?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Formula 1",SKY Sport F1 HD
+http://bazarhd.online:80/307234110115/307234110115/161920?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",DAZN F1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY SPORTS F1 HD
+http://iptv.nonoip.com:7000/jamila/jamila123/36427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_FHD
+http://listamy.com:8080/Berto/Berto/387649?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_FHD
+http://listamy.com:8080/cuco/cuco/387649?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_HD
+http://listamy.com:8080/Berto/Berto/387648?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",Sky Sports F1 FHD
+http://nomorecable.xyz:80/vmp343streams/850256/46196?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",Sky Sports F1 HD
+http://nomorecable.xyz:80/vmp343streams/850256/74881?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",UK_SKY_SPORTS_F1_HD
+http://tvmedia2.com:8080/trevor/trevor/175434.ts?checkedby:iptvcat.com
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel

@@ -122,8 +122,6 @@ http://37723998.to:2052/dale1/1234/335845?checkedby:iptvcat.com output=m3u8
 #EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Formula 1",Sky Sports F1
 http://37723998.to:2052/dale1/1234/335873?checkedby:iptvcat.com output=m3u8
 
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Eir_Sport_2_HD
-http://tvmedia2.com:8080/trevor/trevor/175451.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_LFCTV
 http://tvmedia2.com:8080/trevor/trevor/175449.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_MUTV
@@ -160,22 +158,12 @@ http://tvmedia2.com:8080/trevor/trevor/175430.ts?checkedby:iptvcat.com
 http://tvmedia2.com:8080/trevor/trevor/175429.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Arena_HD
 http://tvmedia2.com:8080/trevor/trevor/175428.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_News
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Mix_HD
 http://tvmedia2.com:8080/trevor/trevor/175427.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_News_HD
 http://tvmedia2.com:8080/trevor/trevor/175426.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Racing_HD
-http://tvmedia2.com:8080/trevor/trevor/175425.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Cricket_HD
 http://tvmedia2.com:8080/trevor/trevor/175424.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Arena_HD
-http://tvmedia2.com:8080/trevor/trevor/175423.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Mix_HD
-http://tvmedia2.com:8080/trevor/trevor/175422.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_News_HD
-http://tvmedia2.com:8080/trevor/trevor/175421.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_Sky_Sport_Racing_HD
-http://tvmedia2.com:8080/trevor/trevor/175420.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8

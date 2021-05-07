@@ -5,13 +5,13 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeuHL3kZdlA3Ik3f-xnAVqA)/dm/3/x6qp375/d/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeuHL3kZdlA3Ik3f-xnAVqA)/dm/3/x6qp375/d/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcu6msym2Bq_3toWGBXVxk)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcu6msym2Bq_3toWGBXVxk)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQrWmnrTb0MEHqEF-AAZvjQ)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeqDeLl70VAdlHZvSQ2yAfI)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeqDeLl70VAdlHZvSQ2yAfI)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my

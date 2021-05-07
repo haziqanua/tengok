@@ -99,28 +99,75 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 #EXTINF:-1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="Golf",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",UK_SKY_SPORTS_F1_HD
-http://tvmedia2.com:8080/trevor/trevor/175434.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Formula 1",SKY Sport F1 HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/161920?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Formula 1",SKY Sport F1 HD
-http://bazarhd.online:80/307234110115/307234110115/161920?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY SPORTS F1 HD
-http://iptv.nonoip.com:7000/jamila/jamila123/36427?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_FHD
-http://listamy.com:8080/Berto/Berto/387649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_FHD
-http://listamy.com:8080/cuco/cuco/387649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",SKY_SPORTS_F1_HD
-http://listamy.com:8080/Berto/Berto/387648?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",Sky Sports F1 FHD
-http://nomorecable.xyz:80/vmp343streams/850256/46196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Formula 1",Sky Sports F1 HD
-http://nomorecable.xyz:80/vmp343streams/850256/74881?checkedby:iptvcat.com
-#EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Formula 1",SKY SPORTS F1
-http://37723998.to:2052/dale1/1234/335845?checkedby:iptvcat.com output=m3u8
-#EXTINF:-1 tvg-ID="SSF1.UK" tvg-country="GB" tvg-logo="https://www.tvguide.co.uk/channel_logos/60x35/1101.png" group-title="Formula 1",Sky Sports F1
-http://37723998.to:2052/dale1/1234/335873?checkedby:iptvcat.com output=m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="F1",FR | TF1,TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="F1",FR | TF1 Séries Films,TF1 Séries Films,TF1 S�ries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="F1",S-SPORT F1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/24948?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="F1",Sky Sport F1 FHD DE
+http://cloudcdn.tk:80/markhilgert/zeC7IT749/74989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="F1",Sky Sport F1 FHD DE
+http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/74989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="F1",TF1 SERIES HD
+http://tv.anonyflux.xyz:80/dKp8y2x27d/ACbP2R2fQ6/136924?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="F1",Sky Sport F1 Full HD
+http://goodtv.xyz:2052/Mike/Mike123/2456056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="F1",Sky Sport F1 HD
+http://goodtv.xyz:2052/Mike/Mike123/2456055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="F1",SKY SPORT F1 ᴴᴰ (Italia)
+http://aimariajuju.ddns.net:8080/2g1IMbq8uD/kZP4dyrG5b/92714?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",DAZN F1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",DAZN F1 FHD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21631?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",F1 HD
+http://miarea.vip:8080/nena/nena/355?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",MOVISTAR F1
+http://test.satlok.club:80/Amigo/do92Rd6x8yr3/12672?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",MOVISTAR F1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/12672?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",MOVISTAR F1 FHD
+http://ky-tv.cc:25461/cde123/cde123/388228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",MOVISTAR F1 FHD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21756?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",MOVISTAR F1 HD
+http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/3147?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="F1",Movistar F1
+http://goodtv.xyz:2052/reggie/reggie/2577870?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",S-K-Y SPORTS F1 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6208?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",S-K-Y SPORTS F1 **
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3762?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",SKY SPORTS F1
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/758?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",SKY SPORTS F1 FHD
+http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1
+http://securepoint.io:83/live/promo/promo/366921.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1
+http://securepoint.io:83/live/promo/promo/366646.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1 FHD UK
+http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/14656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1 FHD UK
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1 HD UK
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/3603?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1 UK
+http://tv.deluxetv.tvip.xyz:80/gLtM2aiLsZ734/ZGUakZ075/14739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sports F1 UK
+http://cloudcdn.tk:80/4R8GfRc60/AZ7wZI135/14739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",UK Sky Sports F1
+http://ky-tv.cc:25461/cde123/cde123/174259?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",UK SkySports F1
+http://ky-tv.cc:25461/cde123/cde123/1196396?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="F1",SP: SPORTS F1 FHD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1661?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="F1",TF1
+https://mmsiptv.com/live/tf1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="F1",TF1 (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_LFCTV
 http://tvmedia2.com:8080/trevor/trevor/175449.ts?checkedby:iptvcat.com

@@ -66,8 +66,6 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/3762?checkedby:iptvcat.com
 http://80.82.76.193:8081/hichamdbb22/J7d2FPvK0c/4258?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sport F1
 http://147.135.130.72:8011/100200300/100200300/80933?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="F1",Sky Sport F1
-http://147.135.130.72:8011/100200300/100200300/80929?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",UK_LFCTV
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3741?checkedby:iptvcat.com
@@ -95,10 +93,14 @@ http://147.135.130.72:8011/100200300/100200300/80926?checkedby:iptvcat.com
 http://147.135.130.72:8011/100200300/100200300/80927?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport Cricket
 http://147.135.130.72:8011/100200300/100200300/80928?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport F1
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport Golf
 http://147.135.130.72:8011/100200300/100200300/80929?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport Main Event
 http://147.135.130.72:8011/100200300/100200300/80930?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport PL
+http://147.135.130.72:8011/100200300/100200300/80931?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport PL
+http://147.135.130.72:8011/100200300/100200300/80932?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport F1
 http://147.135.130.72:8011/100200300/100200300/80933?checkedby:iptvcat.com
 
@@ -124,7 +126,7 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/3751?checkedby:iptvcat.com
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3752?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport_Backup",Sky Sport Football
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3753?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport_Backup",Sky Sport News
+#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport_Backup",Sky Sport PL
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3754?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport_Backup",Sky Sport NFL
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3755?checkedby:iptvcat.com

@@ -339,7 +339,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="552" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Documentary",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-ID="553" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary",Discovery Asia
+#EXTINF:-1 tvg-id="553" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Documentary",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NGC.MY" group-title="Documentary", National Geographic Chanel - NGC HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8

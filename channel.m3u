@@ -291,9 +291,9 @@ http://iptvtree.net:8080/Ainamanja/6a4fef36/165052
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" group-title="Documentary",DISCOVERY ASIA 
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="551" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Documentary",DISCOVERY CHANNEL [Usee]
+#EXTINF:-1 tvg-id="552" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Documentary",DISCOVERY CHANNEL [Usee]
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==disco&b=15&c=disco
-#EXTINF:-1 tvg-id="551" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Documentary",DISCOVERY CHANNEL 
+#EXTINF:-1 tvg-id="552" tvg-logo="https://i.postimg.cc/VL2fhRGF/logo-discovery-big.png" group-title="Documentary",DISCOVERY CHANNEL 
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 tvg-id="715" tvg-logo="https://i.postimg.cc/s2nsKpvY/HGTV.png" group-title="Documentary",HGTV 
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a=usee-hgtv&b=15&c=hgtv

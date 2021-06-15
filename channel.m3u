@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="101" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtmlive01.secureswiftcontent.com/rtm/live01_1080.m3u8
 #EXTINF:-1 tvg-ID="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://rtmlive04.secureswiftcontent.com/rtm/live04_1080.m3u8
 #EXTINF:-1 tvg-ID="103" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 #https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcQlytopmju0K82OdRJmk34)/dm/3/x6qp375/d/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
@@ -17,9 +17,9 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
 #EXTINF:-1 tvg-ID="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/807px-Logo_of_the_TV_Alhijrah.svg.png" group-title="Malaysia",Tv Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8
 #EXTINF:-1 tvg-ID="146" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b4064000.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" tvg-audio="https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="Malaysia",Astro Ria
@@ -320,20 +320,20 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 https://cmt.mb13.cyou/uni/livedo/btsport1.m3u8
 #EXTINF:-1 tvg-id="BT2" tvg-logo="https://i.postimg.cc/RVnmSRp2/BT-SPORT-2-HD.png" group-title="Sports",BT SPORT 2 HD
 https://cmt.mb13.cyou/uni/livedo/btsport2.m3u8
-#EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1 [Usee]
+#EXTINF:-1 tvg-id="BS1ID" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1 [Usee]
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bein1&b=15&c=bein1
-#EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1
+#EXTINF:-1 tvg-id="BS1ID" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1
 #http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1 tvg-id="819" tvg-logo="https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title="Sports",beIN Sports 2 [Usee]
+#EXTINF:-1 tvg-id="BS2ID" tvg-logo="https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title="Sports",beIN Sports 2 [Usee]
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bein2&b=15&c=bein2
-#EXTINF:-1 tvg-id="819" tvg-logo="https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title="Sports",beIN Sports 2
+#EXTINF:-1 tvg-id="BS2ID" tvg-logo="https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title="Sports",beIN Sports 2
 #http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bein2hd/playlist.m3u8
-#EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/sx88hkx7/BEIN-SPORTS-ENGLISH-1.png" group-title="Sports",beIN SPORTS 1 English
+#EXTINF:-1 tvg-id="BS1E" tvg-logo="https://i.postimg.cc/sx88hkx7/BEIN-SPORTS-ENGLISH-1.png" group-title="Sports",beIN SPORTS 1 English
 https://cmt.mb13.cyou/uni/livedo/bein1hd.m3u8
 #https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="819" tvg-logo="https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png" group-title="Sports",beIN SPORTS 2 English
+#EXTINF:-1 tvg-id="BS2E" tvg-logo="https://i.postimg.cc/j2CmCxxR/BEIN-SPORTS-ENGLISH-2.png" group-title="Sports",beIN SPORTS 2 English
 https://cmt.mb13.cyou/uni/livedo/bein2hd.m3u8
 #https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ES1.US" tvg-logo="https://i.postimg.cc/hj1L95Nx/ESPN.png" group-title="Sports",ESPN

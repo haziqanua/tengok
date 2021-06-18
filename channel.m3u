@@ -364,71 +364,73 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="Sports",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 group-title="UK TV",,UK: BBC 1 NORTHERN IRELAND | HD
+#EXTINF:-1 group-title="UK TV",IPTVNOW: UEFA EURO 2020
+http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/23041.ts
+#EXTINF:-1 group-title="UK TV",UK: BBC 1 NORTHERN IRELAND | HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/931.ts
-#EXTINF:-1 group-title="UK TV",,UK: BBC THREE
+#EXTINF:-1 group-title="UK TV",UK: BBC THREE
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/932.ts
-#EXTINF:-1 group-title="UK TV",,UK: BBC FOUR HD
+#EXTINF:-1 group-title="UK TV",UK: BBC FOUR HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/933.ts
-#EXTINF:-1 group-title="UK TV",,UK: ITV HD
+#EXTINF:-1 group-title="UK TV",UK: ITV HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1028.ts
-#EXTINF:-1 group-title="UK TV",,UK: ITV1
+#EXTINF:-1 group-title="UK TV",UK: ITV1
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1029.ts
-#EXTINF:-1 group-title="UK TV",,UK: ITV2 HD
+#EXTINF:-1 group-title="UK TV",UK: ITV2 HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1030.ts
-#EXTINF:-1 group-title="UK TV",,UK: ITV4 HD
+#EXTINF:-1 group-title="UK TV",UK: ITV4 HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1032.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT 1 UHD
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT 1 UHD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1088.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORTS 2
+#EXTINF:-1 group-title="UK TV",UK: BT SPORTS 2
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1090.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT 3 FHD
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT 3 FHD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1093.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT ESPN
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT ESPN
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1096.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT EXTRA 1
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT EXTRA 1
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1097.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT EXTRA 2
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT EXTRA 2
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1098.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT EXTRA 3
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT EXTRA 3
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1099.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT EXTRA 4
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT EXTRA 4
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1100.ts
-#EXTINF:-1 group-title="UK TV",,UK: BT SPORT EXTRA 5
+#EXTINF:-1 group-title="UK TV",UK: BT SPORT EXTRA 5
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1101.ts
-#EXTINF:-1 group-title="UK TV",,UK: ASTRO CRICKET
+#EXTINF:-1 group-title="UK TV",UK: ASTRO CRICKET
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1105.ts
-#EXTINF:-1 group-title="UK TV",,UK: ASTRO SPORTS 1
+#EXTINF:-1 group-title="UK TV",UK: ASTRO SPORTS 1
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1106.ts
-#EXTINF:-1 group-title="UK TV",,UK: ASTRO SPORTS 2
+#EXTINF:-1 group-title="UK TV",UK: ASTRO SPORTS 2
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1107.ts
-#EXTINF:-1 group-title="UK TV",,UK: ASTRO SPORTS 3
+#EXTINF:-1 group-title="UK TV",UK: ASTRO SPORTS 3
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1108.ts
-#EXTINF:-1 group-title="UK TV",,UK: ASTRO SPORTS 4
+#EXTINF:-1 group-title="UK TV",UK: ASTRO SPORTS 4
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1109.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS ARENA HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS ARENA HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1113.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS CRICKET FHD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS CRICKET FHD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1115.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS F1 HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS F1 HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1117.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS FOOTBALL HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS FOOTBALL HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1118.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS MAIN EVENT HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS MAIN EVENT HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1121.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS MIX HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS MIX HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1123.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS NEWS HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS NEWS HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1125.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS PREMIER LEAGUE HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1127.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS RACING
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS RACING
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1128.ts
-#EXTINF:-1 group-title="UK TV",,UK: SKY SPORTS GOLF
+#EXTINF:-1 group-title="UK TV",UK: SKY SPORTS GOLF
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1131.ts
-#EXTINF:-1 group-title="UK TV",,UK: EIR SPORT 2 HD
+#EXTINF:-1 group-title="UK TV",UK: EIR SPORT 2 HD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/1136.ts
-#EXTINF:-1 group-title="UK TV",,US: ESPN FHD
+#EXTINF:-1 group-title="UK TV",US: ESPN FHD
 http://iptvnow.me:8080/dindin-3505/RAp0L4nWBm/510.ts
 
 
@@ -1769,4 +1771,7 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
 #https://livestreaming-swiftserve-etslive.vidio.com/live/6838/master.m3u8
 https://livestreaming-google-etslive.vidio.com/live/6838/master.m3u8
+
+#EXTINF:-1 group-title="VOD",18 Puasa Di Kampung Pisang
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7334.mkv
 
